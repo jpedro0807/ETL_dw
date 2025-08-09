@@ -8,7 +8,7 @@
 
 ## Descrição
 
-Este repositório faz parte do meu portfólio e apresenta uma **API REST** desenvolvida em **Flask** para simular um fluxo básico de **e-commerce**, integrando um banco de dados **OLTP** para operações transacionais e um **Data Warehouse (DW)** para armazenamento analítico.
+**API REST** desenvolvida em **Flask** para simular um fluxo básico de **e-commerce**, integrando um banco de dados **OLTP** para operações transacionais e um **Data Warehouse (DW)** para armazenamento analítico.
 
 O projeto inclui:
 
@@ -38,7 +38,7 @@ O projeto inclui:
 1. **Clonar o repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jpedro0807/ETL_dw.git
    cd seu-repositorio
    ```
 
@@ -216,21 +216,11 @@ POST /faturar/1
 
 ---
 
-## Built with the tools and technologies:
-
-![Built with: Python](https://img.shields.io/badge/Built%20with-Python-lightgrey?style=flat-square\&logo=python\&logoColor=black)
-![Built with: Flask](https://img.shields.io/badge/Built%20with-Flask-lightgrey?style=flat-square\&logo=flask\&logoColor=black)
-![Built with: PostgreSQL](https://img.shields.io/badge/Built%20with-PostgreSQL-lightgrey?style=flat-square\&logo=postgresql\&logoColor=black)
 
 ## Contato
 
-* **Nome**: \[Joao Pedro Barbosa da Silva]
+* **Nome**: \Joao Pedro Barbosa da Silva
 * **Email**: \[[jpedro080@hotmail.com](mailto:jpedro080@hotmail.com)]
 * **LinkedIn**: \[[https://www.linkedin.com/in/jpedro0807/](https://www.linkedin.com/in/jpedro0807/)]
 
 > Este projeto demonstra conhecimentos em desenvolvimento de APIs com Flask, integração entre sistemas OLTP e DW, manipulação de dados em PostgreSQL e boas práticas de arquitetura de software.
-
----
-
-Se quiser, posso também criar **um diagrama visual do fluxo** entre OLTP → API → DW para incluir no README, deixando o portfólio ainda mais profissional.
-Quer que eu adicione?
